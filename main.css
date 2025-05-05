@@ -11,7 +11,10 @@ body {
   margin-bottom: 20px ;
   margin-right: auto;
 }
-
+.banner{
+  align-content: left;
+  size: 40px;
+}
 .article {
   max-width: 1200px;
   margin-left: auto;
